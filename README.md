@@ -45,7 +45,7 @@ void loop()
   delay(2000); 
   
 }
-```c
+```
 
 ### OUTPUT
 ![167764065-07d5439f-7edc-4da0-9c14-3e5452df70c0](https://user-images.githubusercontent.com/78891098/172996516-92af3348-1aa4-4b6c-8d22-debeebcc2fb9.png)
